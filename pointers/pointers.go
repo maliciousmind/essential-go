@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 func main() {
-	x, y := 20, 40
+	x, y := 200, 4
 	swap(&x, &y)
 	fmt.Println(x, y)
 }
